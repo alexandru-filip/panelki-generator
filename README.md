@@ -1,20 +1,12 @@
 # The Panelki Dataset v.1.0 
-
-
+The Panelki Dataset is a collection of x images of building structures
 ## Work in progress 
 
-The Panelki Dataset is a collection of x images of building structures created through generative Autodesk Dynamo scripts, saved as Revit models and exported as images.  
-
-The original inspiration for building designs comes from a widespread building typology in the former USSR and its variations in former socialist countries, sometimes called 'Khrushchyovkas'. More information on the building typology and its history can be found [here](https://en.wikipedia.org/wiki/Khrushchevka). 
-
-The name "Panelki" is a nickname these buildings got in Poland. 
-
-These buildings contain the doors and windows presented in the [PERDAW Dataset](https://github.com/alexandru-filip/perdaw-dataset) and the Panelki Dataset should be considered as a continuation of this work.
-
 #### TLDR:
+???
 
 #### Table of Contents:
-##### [Background and Principles of Design](background-and-principles-of-design)
+##### [Background and Design Principles](background-and-design-principles)
 ##### [Dataset Content and Structure](#dataset-content-and-structure)
 ##### [Development Process](#development-process)
 ##### [Scripts and Code](#scripts-and-code)
@@ -25,7 +17,19 @@ These buildings contain the doors and windows presented in the [PERDAW Dataset](
 ##### [Previous Work](#previous-work)
 -----------
 
-## Background and Principles of Design
+## Background and Design Principles
+The Panelki Dataset was created through generative Autodesk Dynamo scripts, saved as Revit models and exported as images.  
+
+#### Background
+The original inspiration for building designs comes from a widespread building typology in the former USSR and its variations in former socialist countries, sometimes called 'Khrushchyovkas'. More information on the building typology and its history can be found [here](https://en.wikipedia.org/wiki/Khrushchevka). 
+
+The name "Panelki" is a nickname these buildings got in Poland. 
+
+These buildings contain the doors and windows presented in the [PERDAW Dataset](https://github.com/alexandru-filip/perdaw-dataset) and the Panelki Dataset should be considered as a continuation of this work.
+
+#### Design Principles 
+
+
 ## Dataset Content and Structure
 ## Development Process
 ## Scripts and Code
