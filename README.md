@@ -1,0 +1,1 @@
+# panelki-generator
